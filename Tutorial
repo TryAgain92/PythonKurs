@@ -1,0 +1,71 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Python Kurs\n",
+    "Dies ist ein Erstentwurf für den angestrebten Python Kurs. Im ersten Durchgang wird der Fokus auf die Basics gelegt. Im zweiten Durchgang bin ich flexibel. Besonders interessant fände ich die Sektion \"Python für Naturwissenschaftler\". DataScience / Machine Learning und Webtechnologien sind große, zeitintensive Themen. Eventuell interessant für die Zukunft, aber vermutlich nicht für den Anfängerkurs."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Übersicht\n",
+    "## Vorwort - vor der Programmierung\n",
+    "* [Warum Python](#1)\n",
+    "* [Welche Zielgruppe ist Python?](#2)\n",
+    "* [Was ist eigentlich ein Programm?](#3)\n",
+    "\n",
+    "## Vorbereitung - für die Programmierung\n",
+    "* [Python Download & Installation](#4)\n",
+    "* [Installation von Jupyter Notebook](#5)\n",
+    "* [Texteditor und Einrichtung](#6)\n",
+    "\n",
+    "## Basics\n",
+    "* [Erstes Programm: Hallo Welt!](#7)\n",
+    "* [Variablen und Datentypen](#8)\n",
+    "* [If / Else Abfragen](#9)\n",
+    "* [Listen](#10)\n",
+    "* [Dictionaries](#11)\n",
+    "* [Schleifen](#12)\n",
+    "* [Funktionen](#13)\n",
+    "* [Klassen und Methoden](#14)\n",
+    "\n",
+    "## Zusatz\n",
+    "* [Numpy](#15)\n",
+    "* [Pandas](#16)\n",
+    "* [Visualisierung von Daten](#16)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.2"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
